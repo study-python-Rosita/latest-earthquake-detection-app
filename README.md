@@ -1,1 +1,1 @@
-# latest-earthquake-detection-app
+# dashboard-monitoring-app
